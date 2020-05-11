@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+      <test name = "Loaning">
+    <classes>
+      <class name="test.day2">
+      <methods>
+      <exclude name = "homeloan"/>
+      </methods>
+      </class>
+      
+    </classes>
+  </test>
+  
+  <test name = "HelloBye">
+  <classes>
+  <class name = "test.day1">
+  <methods> 
+  <include name = "demo2"/>
+  </methods>
+  </class>
+  </classes>
+  </test>
+  
+  
+  
+  
+  
+</suite>
