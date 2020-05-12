@@ -17,13 +17,10 @@
   <class name = "test.day1">
   <methods> 
   <include name = "demo2"/>
+  <include name="demo3"/> 
   </methods>
   </class>
   </classes>
   </test>
-  
-  
-  
-  
-  
+    
 </suite>
