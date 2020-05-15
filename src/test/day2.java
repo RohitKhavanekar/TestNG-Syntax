@@ -3,15 +3,22 @@ package test;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
+
+import com.beust.jcommander.Parameter;
 
 public class day2 
 {
-	@Test(groups= {"Smoke"})
-	public void homeloan()
+	@Parameters({"url","Myname"})
+	@Test
+	public void homeloan(String urlname,String name)
 	{
 		System.out.println("HomeLoan");
+		System.out.println(urlname);
+		System.out.println(name);
 	}
+	
 	
 	@Test
 	public void CarLoan()
@@ -19,7 +26,7 @@ public class day2
 		System.out.println("Carloan");
 	}
 	
-	@Test(dependsOnMethods = ("CarLoan"))
+	@Test
 	public void PersonaLoan()
 	{
 		System.out.println("PersonalLoan");
