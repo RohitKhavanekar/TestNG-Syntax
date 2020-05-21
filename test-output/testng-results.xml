@@ -2,44 +2,44 @@
 <testng-results skipped="0" failed="0" ignored="1" total="7" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="185" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
+  <suite name="Suite" duration-ms="212" started-at="2020-05-15T19:03:37 IST" finished-at="2020-05-15T19:03:38 IST">
     <groups>
     </groups>
-    <test name="Loaning" duration-ms="90" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
+    <test name="Loaning" duration-ms="92" started-at="2020-05-15T19:03:37 IST" finished-at="2020-05-15T19:03:37 IST">
       <class name="test.day2">
-        <test-method status="PASS" signature="Runner()[pri:0, instance:test.day2@4b4523f8]" name="Runner" is-config="true" duration-ms="11" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
+        <test-method status="PASS" signature="Runner()[pri:0, instance:test.day2@1dfe2924]" name="Runner" is-config="true" duration-ms="11" started-at="2020-05-15T19:03:37 IST" finished-at="2020-05-15T19:03:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Runner -->
-        <test-method status="PASS" signature="Bfmeth()[pri:0, instance:test.day2@4b4523f8]" name="Bfmeth" is-config="true" duration-ms="1" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
+        <test-method status="PASS" signature="Bfmeth()[pri:0, instance:test.day2@1dfe2924]" name="Bfmeth" is-config="true" duration-ms="1" started-at="2020-05-15T19:03:37 IST" finished-at="2020-05-15T19:03:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Bfmeth -->
-        <test-method status="PASS" signature="CarLoan()[pri:0, instance:test.day2@4b4523f8]" name="CarLoan" duration-ms="7" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
+        <test-method status="PASS" signature="CarLoan()[pri:0, instance:test.day2@1dfe2924]" name="CarLoan" duration-ms="7" started-at="2020-05-15T19:03:37 IST" finished-at="2020-05-15T19:03:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CarLoan -->
-        <test-method status="PASS" signature="Afmeth()[pri:0, instance:test.day2@4b4523f8]" name="Afmeth" is-config="true" duration-ms="1" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
+        <test-method status="PASS" signature="Afmeth()[pri:0, instance:test.day2@1dfe2924]" name="Afmeth" is-config="true" duration-ms="1" started-at="2020-05-15T19:03:37 IST" finished-at="2020-05-15T19:03:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Afmeth -->
-        <test-method status="PASS" signature="Bfmeth()[pri:0, instance:test.day2@4b4523f8]" name="Bfmeth" is-config="true" duration-ms="1" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Bfmeth -->
-        <test-method status="PASS" signature="PersonaLoan()[pri:0, instance:test.day2@4b4523f8]" name="PersonaLoan" duration-ms="1" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
+        <test-method status="PASS" signature="PersonaLoan()[pri:0, instance:test.day2@1dfe2924]" name="PersonaLoan" duration-ms="2" started-at="2020-05-15T19:03:37 IST" finished-at="2020-05-15T19:03:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PersonaLoan -->
-        <test-method status="PASS" signature="Afmeth()[pri:0, instance:test.day2@4b4523f8]" name="Afmeth" is-config="true" duration-ms="1" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Afmeth -->
-        <test-method status="PASS" signature="Bfmeth()[pri:0, instance:test.day2@4b4523f8]" name="Bfmeth" is-config="true" duration-ms="0" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
+        <test-method status="PASS" signature="Bfmeth()[pri:0, instance:test.day2@1dfe2924]" name="Bfmeth" is-config="true" duration-ms="0" started-at="2020-05-15T19:03:37 IST" finished-at="2020-05-15T19:03:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Bfmeth -->
-        <test-method status="PASS" signature="homeloan(java.lang.String, java.lang.String)[pri:0, instance:test.day2@4b4523f8]" name="homeloan" duration-ms="4" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
+        <test-method status="PASS" signature="Afmeth()[pri:0, instance:test.day2@1dfe2924]" name="Afmeth" is-config="true" duration-ms="0" started-at="2020-05-15T19:03:37 IST" finished-at="2020-05-15T19:03:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Afmeth -->
+        <test-method status="PASS" signature="Bfmeth()[pri:0, instance:test.day2@1dfe2924]" name="Bfmeth" is-config="true" duration-ms="0" started-at="2020-05-15T19:03:37 IST" finished-at="2020-05-15T19:03:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bfmeth -->
+        <test-method status="PASS" signature="homeloan(java.lang.String, java.lang.String)[pri:0, instance:test.day2@1dfe2924]" name="homeloan" duration-ms="2" started-at="2020-05-15T19:03:37 IST" finished-at="2020-05-15T19:03:37 IST">
           <params>
             <param index="0">
               <value>
@@ -55,19 +55,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homeloan -->
-        <test-method status="PASS" signature="Afmeth()[pri:0, instance:test.day2@4b4523f8]" name="Afmeth" is-config="true" duration-ms="1" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
+        <test-method status="PASS" signature="Afmeth()[pri:0, instance:test.day2@1dfe2924]" name="Afmeth" is-config="true" duration-ms="1" started-at="2020-05-15T19:03:37 IST" finished-at="2020-05-15T19:03:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Afmeth -->
       </class> <!-- test.day2 -->
     </test> <!-- Loaning -->
-    <test name="HelloBye" duration-ms="26" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
+    <test name="HelloBye" duration-ms="20" started-at="2020-05-15T19:03:38 IST" finished-at="2020-05-15T19:03:38 IST">
       <class name="test.day1">
-        <test-method status="PASS" signature="demo3()[pri:0, instance:test.day1@1efed156]" name="demo3" is-config="true" duration-ms="0" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
+        <test-method status="PASS" signature="demo3()[pri:0, instance:test.day1@64729b1e]" name="demo3" is-config="true" duration-ms="0" started-at="2020-05-15T19:03:38 IST" finished-at="2020-05-15T19:03:38 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo3 -->
-        <test-method status="PASS" signature="demo2(java.lang.String, java.lang.String)[pri:0, instance:test.day1@1efed156]" name="demo2" duration-ms="2" started-at="2020-05-14T11:14:22 IST" data-provider="getData" finished-at="2020-05-14T11:14:22 IST">
+        <test-method status="PASS" signature="demo4()[pri:0, instance:test.day1@64729b1e]" name="demo4" is-config="true" duration-ms="1" started-at="2020-05-15T19:03:38 IST" finished-at="2020-05-15T19:03:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo4 -->
+        <test-method status="PASS" signature="demo2(java.lang.String, java.lang.String)[pri:0, instance:test.day1@64729b1e]" name="demo2" duration-ms="1" started-at="2020-05-15T19:03:38 IST" data-provider="getData" finished-at="2020-05-15T19:03:38 IST">
           <params>
             <param index="0">
               <value>
@@ -83,15 +87,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo2 -->
-        <test-method status="PASS" signature="demo4()[pri:0, instance:test.day1@1efed156]" name="demo4" is-config="true" duration-ms="0" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
+        <test-method status="PASS" signature="demo4()[pri:0, instance:test.day1@64729b1e]" name="demo4" is-config="true" duration-ms="1" started-at="2020-05-15T19:03:38 IST" finished-at="2020-05-15T19:03:38 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo4 -->
-        <test-method status="PASS" signature="demo4()[pri:0, instance:test.day1@1efed156]" name="demo4" is-config="true" duration-ms="1" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- demo4 -->
-        <test-method status="PASS" signature="demo2(java.lang.String, java.lang.String)[pri:0, instance:test.day1@1efed156]" name="demo2" duration-ms="1" started-at="2020-05-14T11:14:22 IST" data-provider="getData" finished-at="2020-05-14T11:14:22 IST">
+        <test-method status="PASS" signature="demo2(java.lang.String, java.lang.String)[pri:0, instance:test.day1@64729b1e]" name="demo2" duration-ms="4" started-at="2020-05-15T19:03:38 IST" data-provider="getData" finished-at="2020-05-15T19:03:38 IST">
           <params>
             <param index="0">
               <value>
@@ -107,7 +107,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo2 -->
-        <test-method status="PASS" signature="demo2(java.lang.String, java.lang.String)[pri:0, instance:test.day1@1efed156]" name="demo2" duration-ms="5" started-at="2020-05-14T11:14:22 IST" data-provider="getData" finished-at="2020-05-14T11:14:22 IST">
+        <test-method status="PASS" signature="demo4()[pri:0, instance:test.day1@64729b1e]" name="demo4" is-config="true" duration-ms="1" started-at="2020-05-15T19:03:38 IST" finished-at="2020-05-15T19:03:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo4 -->
+        <test-method status="PASS" signature="demo2(java.lang.String, java.lang.String)[pri:0, instance:test.day1@64729b1e]" name="demo2" duration-ms="1" started-at="2020-05-15T19:03:38 IST" data-provider="getData" finished-at="2020-05-15T19:03:38 IST">
           <params>
             <param index="0">
               <value>
@@ -123,10 +127,6 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo2 -->
-        <test-method status="PASS" signature="demo4()[pri:0, instance:test.day1@1efed156]" name="demo4" is-config="true" duration-ms="0" started-at="2020-05-14T11:14:22 IST" finished-at="2020-05-14T11:14:22 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- demo4 -->
       </class> <!-- test.day1 -->
     </test> <!-- HelloBye -->
   </suite> <!-- Suite -->
